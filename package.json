@@ -1,0 +1,22 @@
+{
+  "name": "node_workspace",
+  "version": "1.0.0",
+  "description": "An app to share node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "-testStart-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimdahhh/node_study.git"
+  },
+  "author": "kdh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kimdahhh/node_study/issues"
+  },
+  "homepage": "https://github.com/kimdahhh/node_study#readme",
+  "dependencies": {
+    "cities": "^2.0.0"
+  }
+}
